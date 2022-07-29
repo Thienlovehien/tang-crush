@@ -1,16 +1,16 @@
 const CONFIG = {
-    introTitle: 'Hiền à!',
-    introDesc: `Hỏi mày câu này`,
+    introTitle: 'Duyên à!',
+    introDesc: `Anh có điều muốn nói`,
     btnIntro: 'OK =)))))',
-    title: 'Yêu mày nhiều lắm <3😙',
-    desc: 'Mỗi ngày tao chỉ cần được mày nói "yêu" thôii ',
+    title: 'anh Yêu em nhiều lắm <3😙',
+    desc: 'Cho anh xin lỗi nhé 🥹 ',
     btnYes: 'Nhất trí :vvv',
     btnNo: 'Không, nằm mơ à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao m lại yêu t <3',
+    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
     btnReply: 'Gửi cho Thiện <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'T biết mà 🥰. Yêu Hiền x300000000000 😘😘',
-    messDesc: 'Tao còn bám mày dàii ',
+    mess: 'T biết mà 🥰. Yêu Em x300000000000 😘😘',
+    messDesc: 'Anj còn bám em dàii ',
     btnAccept: '=))))) <3',
     messLink: 'https://www.facebook.com/profile.php?id=100005036799960' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
